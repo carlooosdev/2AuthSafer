@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "2Auth Safer",
+  "version": "1.0",
+  "description": "A Firefox extension for managing 2-factor authentication entries.",
+  "icons": {
+    "48": "icon.ico"
+  },
+  "browser_action": {
+    "default_icon": {
+      "48": "icon.ico"
+    },
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+}
+
