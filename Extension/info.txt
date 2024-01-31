@@ -1,0 +1,9 @@
+The extension was initially developed to run exclusively on the Firefox browser. As it is still in the development phase, it is not available in the Firefox extension store and needs to be installed manually in debug mode.
+
+To load the extension in debug mode, you need to access the "about:debugging" page in the Firefox browser and choose the "Load temporary extension" option. Then navigate to the directory where the extension is located and select the manifest.json file.
+
+However, when trying to load the extension, you may encounter the error "This addon appears to be corrupted." This error usually occurs when the extension file is incomplete, missing or has a compatibility problem. This problem is most likely because of us, but we will fix it because, as I said, it is still under development.
+
+To resolve this issue, verify that the extension file is healthy and complete. Also make sure you have the most up-to-date versions of the Firefox browser and development tools. If the error persists, you may need to review the extension code and identify possible errors or incompatibilities.
+
+Remembering that, once development is completed and due testing and debugging has been carried out, the extension can be officially launched in the Firefox extension store, becoming accessible to all browser users.
