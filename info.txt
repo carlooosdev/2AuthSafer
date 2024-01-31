@@ -1,0 +1,9 @@
+Before proceeding, I would like to provide some additional information.
+
+Firstly, I want to clarify that the project logo or icon used for the extension is not my own creation. Credit for the logo goes to Trinh Ho, and you can find more of their work on Dribbble at https://dribbble.com/TrinhHo and their icon sets on Icon-Icons at https://icon-icons.com/pt/users/CPesVYfqSx7YIVJBEUtix/icon-sets/. I have chosen to use this icon as it is available for both personal and commercial use, but I want to acknowledge and give credit to the original creator.
+
+Secondly, I would like to mention that as the extension is still under development, it is not yet in its final form. For more detailed information about the extension and its functionality, please refer to the "info.txt" file located in the "Extension" folder. This file contains additional documentation that provides insights into the features, known issues, and future plans for the extension.
+
+By referring to the "info.txt" file, you can gain a better understanding of the current state of the extension and its potential limitations. Additionally, it will provide valuable information on how to provide feedback, report bugs, or contribute to the ongoing development of the extension.
+
+I appreciate your interest in the extension and your understanding that it is a work in progress. Your feedback and suggestions are highly welcomed as they contribute to the improvement and refinement of the extension before its official release.
