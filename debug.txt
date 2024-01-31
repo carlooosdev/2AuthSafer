@@ -1,0 +1,3 @@
+Due to browser security rules, it does not load external scripts. In this case, we will have to change the way the app works, we can approach jQuery internally.
+
+"Content-Security-Policy: The page’s settings blocked the loading of a resource at https://code.jquery.com/jquery-3.6.0.min.js (“script-src”)."
